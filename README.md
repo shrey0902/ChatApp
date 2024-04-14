@@ -1,7 +1,9 @@
 Chat App README
+
 Welcome to our Chat App! This Flutter app allows users to sign up, upload profile images, send and receive messages, and receive push notifications using Firebase.
 
 Features
+
 Sign-Up: Users can create a new account by providing their email, username, and password.
 Profile Picture Upload: Users can upload a profile picture during the sign-up process or later in their profile settings.
 Messaging: Users can send text messages to other users in real-time.
